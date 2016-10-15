@@ -1,0 +1,5 @@
+var config = {
+  apiKey: 'API-KEY',
+  flickrUser: 'theportatcern',
+  albumId: 72157675097941006
+};
