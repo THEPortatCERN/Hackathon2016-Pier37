@@ -125,3 +125,11 @@ SOFTWARE.
 section {
   padding: 1em 0;
 }
+
+header.parallax {
+  font-size: 30px;
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}

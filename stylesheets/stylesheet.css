@@ -83,16 +83,13 @@ header h2 {
   letter-spacing: -1px;
 }
 
-#container {
-  min-height: 595px;
-}
-
-.inner {
-  width: 620px;
+.container {
+  width: 80vw;
+  max-width: 800px;
   margin: 0 auto;
 }
 
-#container .inner img {
+.container .inner img {
   max-width: 100%;
 }
 
@@ -318,7 +315,6 @@ footer {
   margin-top: 40px;
   font-size: 13px;
   color: #aaa;
-  background: transparent url('../images/hr.png') 0 0 no-repeat;
 }
 
 footer a {
