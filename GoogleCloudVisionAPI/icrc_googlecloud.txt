@@ -1,0 +1,22 @@
+Depending on the API, you need an API key, a service account, or an OAuth 2.0 client ID. Refer to the API documentation for details.
+https://developers.google.com/identity/protocols/application-default-credentials
+GOOGLE_APPLICATION_CREDENTIALS = C:\Pragyan\python-docs-samples\vision\api\My First Project-534cd66b9263.json
+Note (reference: https://github.com/burnash/gspread/issues/407 ): 
+* Add to requirements.txt -- "cryptography==1.4" (without quotes)
+* Run "pip install -r requirements.txt" (without quotes)
+
+https://cloud.google.com/vision/docs/label-tutorial
+
+$ git clone https://github.com/GoogleCloudPlatform/python-docs-samples.git
+$ cd python-docs-samples/vision/api/label
+$ pip install -r requirements.txt
+$ python label.py resources/cat.jpg
+
+
+https://cloud.google.com/vision/docs/face-tutorial
+
+$ git clone https://github.com/GoogleCloudPlatform/python-docs-samples.git
+$ cd python-docs-samples/vision/api/face_detection
+$ pip install -r requirements.txt 
+$ python faces.py ./resources/face-input.jpg
+

@@ -1,0 +1,1 @@
+Found label: cat, mammal, vertebrate, whiskers, cat like mammal for .\resources\cat.jpg

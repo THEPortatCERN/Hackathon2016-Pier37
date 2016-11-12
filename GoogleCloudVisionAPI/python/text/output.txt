@@ -1,0 +1,53 @@
+
+C:\Pragyan\Hackathon2016-Pier37\GoogleCloudVisionAPI\python\text>textindex.py .\data 
+--------------------------
+.\data\screenshot.png:
+Colonia San Juan Team A-001
+OR
+Chaing Mai Hospital P. Sribanditmongkol-001
+ColoniaSanJuanTeamA-001ORChaingMaiHospitalP.Sribanditmongkol-001
+
+
+--------------------------
+--------------------------
+.\data\2_original.jpg:
+Mobile App
+CER
+novato
+ite act futil
+act toda
+at thep
+unite innovat
+pact f
+Pari
+s at theport.ch
+www.cern.cWideasquare
+MobileAppCERnovatoiteactfutilacttodaatthepuniteinnovatpactfParisattheport.chwww.cern.cWideasquare
+
+
+--------------------------
+--------------------------
+.\data\face-annotated.jpg:
+12 51 32.58 100 82
+LOCATION: 46, 22 g 50 1 N. 6.054655
+IMAGE ATT RS: 5
+28 68055556 24 4 62 28
+125132.5810082LOCATION:46,22g501N.6.054655IMAGEATTRS:528680555562446228
+
+
+--------------------------
+--------------------------
+.\data\Picture1.png:
+A) Whole Face
+A)WholeFace
+
+
+--------------------------
+--------------------------
+.\data\3_original.jpg:
+PorT
+unite
+PorTunite
+
+
+--------------------------
